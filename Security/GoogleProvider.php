@@ -1,5 +1,5 @@
 <?php
-Acme\MyBundle\Security\User\Provider;
+cam5\MFOSUserBundle\Security\User\Provider;
 use Symfony\Component\Security\Core\Exception\UsernameNotFoundException;
 use Symfony\Component\Security\Core\Exception\UnsupportedUserException;
 use Symfony\Component\Security\Core\User\UserProviderInterface;
